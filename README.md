@@ -10,6 +10,9 @@ gcc -o output Queue-adt.o Queue.o
 
 
 
+
+
+
 gcc -c Queue-adt.c Queue.c Queue.h
 
 gcc -o output Queue-adt.o Queue.o
